@@ -3,6 +3,7 @@ RPV Turbo
 
 The RealPhoneValidation Turbo API uses HTTP GET/POST methods and supports both HTTPS and plain HTTP.  Determines connectivity in a flash and you get the industry best in connect/disconnect information in about 2 seconds.
 
+[Read more about phone number validation](https://realphonevalidation.com/%20For%20more%20information)
 
 **Required Input Parameters:**
 
