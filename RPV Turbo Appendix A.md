@@ -26,5 +26,3 @@ RPV Turbo - Appendix A
 | Bad-zip-code     |  Zip code is not valid   |    |
 | Server-unavailable     |  <various messages>   |  contact support  |
 
-
-> Written with [StackEdit](https://stackedit.io/).
